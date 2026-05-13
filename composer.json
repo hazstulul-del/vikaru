@@ -1,0 +1,9 @@
+{
+  "name": "vikaru/rat-api",
+  "description": "VIKARU RAT Backend for Railway",
+  "type": "project",
+  "require": {
+    "php": ">=7.4",
+    "ext-mysqli": "*"
+  }
+}
